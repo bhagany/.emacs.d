@@ -54,8 +54,6 @@
    kept-old-versions 0
    version-control t
    vc-make-backup-files t)
-;;(setq backup-directory-alist '(("." . "~/.emacs.d/backups")))
-;;(setq backup-by-copying t)
 
 ;; OMFG BLINKING CURSOR GO AWAY
 (blink-cursor-mode 0)
