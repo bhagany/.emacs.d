@@ -40,6 +40,9 @@
   (unless (package-installed-p p)
     (package-install p)))
 
+;; executables
+(add-to-list 'exec-path "/usr/local/bin")
+
 ;; My preferred theme
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 (load-theme 'hagany t)
