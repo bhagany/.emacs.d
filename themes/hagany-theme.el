@@ -28,7 +28,7 @@
       (hagany-mid-gray            "#555555")
       (hagany-light-gray          "#666666")
       (hagany-lightest-gray       "#999999")
-      (hagany-comment-slate       "#505C63")
+      (hagany-comment-slate       "#5C6A73")
       (hagany-orange              "#D48B53")
       (hagany-yellow              "#EEF294")
       (hagany-light-slate         "#465459")
